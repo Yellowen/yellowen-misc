@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'yellowen/misc/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "yellowen_misc"
+  spec.name          = "yellowen-misc"
   spec.version       = Yellowen::Misc::VERSION
   spec.authors       = ["Sameer Rahmani"]
   spec.email         = ["lxsameer@gnu.org"]
